@@ -4,3 +4,4 @@ Projekt 10 jest to program w języku Python wyposażony w interface GUI, który 
 Aby uruchomic program należy skopiowac zawartość pliku main.py do aplikacji Pycharm. Aby program mógł działac w systemie musi być zainstalowana biblioteka guizero. Po uruchomieniu programu w aplikacji Pycharm powinno wyświetlić się okienko gui. Po wpisaniu adresu ip i maski oraz naciśnięciu przycisku Start program pownien obliczyć takie parametry jak adres sieci, adres hosta, adres broadcast, liczbę hostów w sieci oraz wersję adresu ip. **Adres IP i maska muszą składać się z cyfr oddzielonych kropkami.** Jeżeli adres ip i/lub maska nie zostaną wpisane w pola tekstowe powinien wyświetlić się błąd.
 # Instalacja guizero
 Aby zainstalować bibliotekę guizero należy w terminalu programu pycharm wpisać **pip install guizero** i nacisnąć enter.
+**https://lawsie.github.io/guizero/app/**
