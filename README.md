@@ -5,3 +5,4 @@ Aby uruchomic program należy skopiowac zawartość pliku main.py do aplikacji P
 # Instalacja guizero
 Aby zainstalować bibliotekę guizero należy w terminalu programu pycharm wpisać **pip install guizero** i nacisnąć enter.
 **https://lawsie.github.io/guizero/app/**
+
